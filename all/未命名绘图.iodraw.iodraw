@@ -10,8 +10,14 @@
         <mxCell id="IpRnQ1TtiYXiAc4YiKHp-1" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;源域仅使用各自训练期&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IpRnQ1TtiYXiAc4YiKHp-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="335" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="IpRnQ1TtiYXiAc4YiKHp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IpRnQ1TtiYXiAc4YiKHp-2" target="IpRnQ1TtiYXiAc4YiKHp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IpRnQ1TtiYXiAc4YiKHp-2" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;源内每栋建筑滑动窗口&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;不跨实体边界取样&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IpRnQ1TtiYXiAc4YiKHp-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
