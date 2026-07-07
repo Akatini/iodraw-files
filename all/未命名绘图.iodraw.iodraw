@@ -8,28 +8,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IpRnQ1TtiYXiAc4YiKHp-1" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;源域仅使用各自训练期&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="42" y="180" width="130" height="60" as="geometry" />
+          <mxGeometry x="20" y="180" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IpRnQ1TtiYXiAc4YiKHp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IpRnQ1TtiYXiAc4YiKHp-2" target="IpRnQ1TtiYXiAc4YiKHp-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IpRnQ1TtiYXiAc4YiKHp-2" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;源内每栋建筑滑动窗口&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;不跨实体边界取样&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="202" y="180" width="150" height="60" as="geometry" />
+          <mxGeometry x="180" y="180" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IpRnQ1TtiYXiAc4YiKHp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IpRnQ1TtiYXiAc4YiKHp-4" target="IpRnQ1TtiYXiAc4YiKHp-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IpRnQ1TtiYXiAc4YiKHp-4" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;监督窗口汇集预训练PatchTST&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;不生成伪拼接序列&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="382" y="180" width="175" height="60" as="geometry" />
+          <mxGeometry x="360" y="180" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IpRnQ1TtiYXiAc4YiKHp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IpRnQ1TtiYXiAc4YiKHp-6" target="IpRnQ1TtiYXiAc4YiKHp-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IpRnQ1TtiYXiAc4YiKHp-6" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;目标建筑固定训练期统计量&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="568" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IpRnQ1TtiYXiAc4YiKHp-8" value="测试评估" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
