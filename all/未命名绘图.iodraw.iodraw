@@ -22,7 +22,7 @@
         <mxCell id="IpRnQ1TtiYXiAc4YiKHp-4" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;监督窗口汇集预训练PatchTST&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;不生成伪拼接序列&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="175" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IpRnQ1TtiYXiAc4YiKHp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IpRnQ1TtiYXiAc4YiKHp-6" target="IpRnQ1TtiYXiAc4YiKHp-8">
+        <mxCell id="IpRnQ1TtiYXiAc4YiKHp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IpRnQ1TtiYXiAc4YiKHp-6" target="IpRnQ1TtiYXiAc4YiKHp-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IpRnQ1TtiYXiAc4YiKHp-6" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;目标建筑固定训练期统计量&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
